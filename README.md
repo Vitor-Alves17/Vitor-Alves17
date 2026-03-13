@@ -23,5 +23,3 @@
 
 
 ---
-
-> Educar é tornar o saber algo com voz, sentido e sentimento.
